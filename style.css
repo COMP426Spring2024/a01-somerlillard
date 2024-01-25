@@ -1,0 +1,28 @@
+.root{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.e{
+    margin: auto;
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    padding: auto;
+}
+.l1{
+    color: aqua;
+}
+.l2{
+    color: blue;
+}
+.l3{
+    color: green;
+    
+}
+
+.all{
+    color: beige;
+}
+
+.buy:hover{
+    
+}
